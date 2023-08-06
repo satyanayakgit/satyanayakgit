@@ -1,5 +1,5 @@
 # Hi there 👋, I am Satya Nayak.
-I am full stack developer on WEB2 and WEB3 working from India.
+I am a full stack developer on WEB2 and WEB3 working from India.
 
 
 ## 🌐 Socials:
